@@ -1,0 +1,2 @@
+### Test StartingPageView
+GET http://localhost:8000/
